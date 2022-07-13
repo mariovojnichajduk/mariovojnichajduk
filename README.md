@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mario Vojnic Hajduk, JavaScript Developer
+- 👀 I’m interested in developing new software solutions
+- 🌱 I’m currently learning React as I want to become Full Stack Javascript Developer
+- 📫 If there is anything I can do, reach me via e-mail: mariovojnichajduk@gmail.com
