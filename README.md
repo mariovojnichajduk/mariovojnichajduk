@@ -1,4 +1,4 @@
-As a C# and JavaScript developer with around 2.5 years of experience at Noubis Services d.o.o. and over 2.5 years at ComData d.o.o., I have gained expertise in both backend and frontend development, with a primary focus on C#.
+As a C# and JavaScript developer with around 2.5 years of experience at Noubis Services d.o.o. and over 3 years at ComData d.o.o., I have gained expertise in both backend and frontend development, with a primary focus on C#.
 
 Programming Languages:
 JavaScript, TypeScript, C#
