@@ -1,4 +1,4 @@
-# Mario Vojnić Hajduk
+# [Mario Vojnić Hajduk](https://mariovojnichajduk.vercel.app/)
 
 **Software Engineer** | Specialized in .NET, AI Integration & Modern Web Technologies
 
@@ -14,7 +14,7 @@ I'm a versatile software engineer with a strong foundation in full-stack develop
 
 ### Tech Stack
 
-**C#** " **.NET** " **MAUI** " **Entity Framework** " **TypeScript** " **NestJS** " **TypeORM** " **PostgreSQL / SQL Server** " **ReactJS** " **AI / LLMs**
+**C#** • **.NET** • **MAUI** • **Entity Framework** • **TypeScript** • **NestJS** • **TypeORM** • **PostgreSQL / SQL Server** • **ReactJS** • **AI / LLMs**
 
 ---
 
@@ -43,38 +43,38 @@ I'm a versatile software engineer with a strong foundation in full-stack develop
 ### Word Add-in with AI Integration
 Microsoft Word Add-in for identifying and redacting sensitive data using AI, with OCR, TTS, and transcription services.
 
-**Tech:** React " Redux " OpenAI " FluentUI " Microservices
+**Tech:** React • Redux • OpenAI • FluentUI • Microservices
 
 ### MAUI Bluetooth Application
 Cross-platform mobile app (Android, iOS, Windows) with Bluetooth device communication and real-time data analytics.
 
-**Tech:** C# " .NET MAUI " ReactiveUI " Realm DB " BLE
+**Tech:** C# • .NET MAUI • ReactiveUI • Realm DB • BLE
 
 ### Ticketing Web Application
 Enterprise B2B communication platform with ticketing, messaging, file uploads, time tracking, and reports.
 
-**Tech:** C# " .NET " React " Azure " Entity Framework
+**Tech:** C# • .NET • React • Azure • Entity Framework
 
 ### Social Media Platform
 Full-stack social media app connecting users with shared interests, developed with ~20 team members.
 
-**Tech:** TypeScript " NestJS " React " PostgreSQL " TypeORM
+**Tech:** TypeScript • NestJS • React • PostgreSQL • TypeORM
 
 ---
 
 ## Skills & Expertise
 
 ### .NET & Backend
-C# " Entity Framework " .NET Core " ASP.NET " NestJS " GraphQL " REST APIs
+C# • Entity Framework • .NET Core • ASP.NET • NestJS • GraphQL • REST APIs
 
 ### Frontend & Mobile
-React " JavaScript " MAUI " WPF " ReactiveUI " Redux
+React • JavaScript • MAUI • WPF • ReactiveUI • Redux
 
 ### AI & Data
-LLMs " OpenAI Integration " OCR " TTS " Transcription " ML Integration
+LLMs • OpenAI Integration • OCR • TTS • Transcription • ML Integration
 
 ### Cloud & Tools
-Azure " AWS " Firebase " PostgreSQL " SQL Server " Git " CI/CD
+Azure • AWS • Firebase • PostgreSQL • SQL Server • Git • CI/CD
 
 ---
 
@@ -107,6 +107,6 @@ ComData d.o.o. | Novi Sad, Serbia
 
 I'm always interested in hearing about new projects and opportunities.
 
-**Email:** [mariovojnichajduk@gmail.com](mailto:mariovojnichajduk@gmail.com)
- **LinkedIn:** [mariovojnichajduk](https://www.linkedin.com/in/mariovojnichajduk/)
- **Phone:** +381 69 2621281
+📧 **Email:** [mariovojnichajduk@gmail.com](mailto:mariovojnichajduk@gmail.com)
+🔗 **LinkedIn:** [mariovojnichajduk](https://www.linkedin.com/in/mariovojnichajduk/)
+📱 **Phone:** +381 69 2621281
