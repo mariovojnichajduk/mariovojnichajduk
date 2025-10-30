@@ -1,0 +1,175 @@
+{
+  "personal": {
+    "name": "Mario Vojnić Hajduk",
+    "title": "Software Engineer",
+    "subtitle": "Specialized in .NET, AI Integration & Modern Web Technologies",
+    "description": "Motivated and detail-oriented software engineer with hands-on experience in backend, frontend, and mobile development. Passionate about building scalable solutions with clean code and exploring AI-powered applications.",
+    "email": "mariovojnichajduk@gmail.com",
+    "phone": "+381 69 2621281",
+    "linkedin": "https://www.linkedin.com/in/mariovojnichajduk/",
+    "location": "Belgrade, Serbia"
+  },
+  "badges": [
+    "C#",
+    ".NET",
+    "MAUI",
+    "EF",
+    "TypeScript",
+    "NestJS",
+    "TypeORM",
+    "PostgreSQL / SQL Server",
+    "ReactJS",
+    "AI / LLMs"
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "ComData d.o.o",
+      "location": "Novi Sad, Serbia",
+      "period": "2022 - 2025",
+      "highlights": [
+        "Developed and maintained enterprise and AI-based systems using .NET and React",
+        "Built MAUI mobile app with Bluetooth device communication",
+        "Created AI-powered Microsoft Word add-in with LLMs and OCR technology",
+        "Integrated multiple time-tracking tools via APIs"
+      ]
+    },
+    {
+      "role": "Backend Developer",
+      "company": "Noubis Services d.o.o",
+      "location": "Subotica, Serbia",
+      "period": "2020 - 2022",
+      "highlights": [
+        "Developed backend services in .NET Core and NestJS",
+        "Worked on startup project with NestJS, PostgreSQL, AWS S3",
+        "Designed and maintained GraphQL and REST APIs",
+        "Integrated Firebase and cloud services"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Information Technology",
+      "institution": "Educons University",
+      "location": "Subotica, Serbia",
+      "period": "2019 - 2024",
+      "gpa": "9/10",
+      "description": "Strong emphasis on programming, software engineering, and database systems. Developed advanced skills in C#, Java, JavaScript, and SQL."
+    },
+    {
+      "degree": "Engineer of Information Technology",
+      "institution": "High School of Electrical Engineering 'Ivan Sarić'",
+      "location": "Subotica, Serbia",
+      "period": "2015 - 2019",
+      "description": "Specialized program in Programming and Software Engineering, focused on C programming fundamentals and Object-Oriented Programming with C#."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Word Add-in with AI Integration",
+      "description": "Microsoft Word Add-in for identifying and redacting sensitive data using AI, with OCR, TTS, and transcription services.",
+      "tech": [
+        "React",
+        "Redux",
+        "OpenAI",
+        "FluentUI",
+        "Microservices"
+      ],
+      "icon": "Brain"
+    },
+    {
+      "title": "MAUI Bluetooth Application",
+      "description": "Cross-platform mobile app (Android, iOS, Windows) with Bluetooth device communication, real-time data analytics.",
+      "tech": [
+        "C#",
+        ".NET MAUI",
+        "ReactiveUI",
+        "Realm DB",
+        "BLE"
+      ],
+      "icon": "Code2"
+    },
+    {
+      "title": "Ticketing Web Application",
+      "description": "Enterprise B2B communication platform with ticketing, messaging, file uploads, time tracking, and reports.",
+      "tech": [
+        "C#",
+        ".NET",
+        "React",
+        "Azure",
+        "Entity Framework"
+      ],
+      "icon": "Briefcase"
+    },
+    {
+      "title": "Social Media Platform",
+      "description": "Full-stack social media app connecting users with shared interests, developed with ~20 team members.",
+      "tech": [
+        "TypeScript",
+        "NestJS",
+        "React",
+        "PostgreSQL",
+        "TypeORM"
+      ],
+      "icon": "Code2"
+    }
+  ],
+  "skills": {
+    ".NET & Backend": [
+      "C#",
+      "Entity Framework",
+      ".NET Core",
+      "ASP.NET",
+      "NestJS",
+      "GraphQL",
+      "REST APIs"
+    ],
+    "Frontend & Mobile": [
+      "React",
+      "JavaScript",
+      "MAUI",
+      "WPF",
+      "ReactiveUI",
+      "Redux"
+    ],
+    "AI & Data": [
+      "LLMs",
+      "OpenAI Integration",
+      "OCR",
+      "TTS",
+      "Transcription",
+      "ML Integration"
+    ],
+    "Cloud & Tools": [
+      "Azure",
+      "AWS",
+      "Firebase",
+      "PostgreSQL",
+      "SQL Server",
+      "Git",
+      "CI/CD"
+    ]
+  },
+  "recommendations": [
+    {
+      "text": "I would like to recommend Mario Vojnić Hajduk, who worked within our company on software development projects using .NET and React technologies. During his time with us, Mario demonstrated a willingness to learn and a professional approach to assigned tasks. He contributed to the development and maintenance of applications, consistently meeting deadlines and adhering to project standards. He also had a brief opportunity to participate in our AI development team, where he showed interest in expanding his technical skill set. Mario is a reliable team member, capable of adapting to different project requirements and working collaboratively in a team environment. I believe that with continued experience and professional growth, he will further develop his skills and contribute positively to future teams.",
+      "author": {
+        "name": "Dragan Majkić",
+        "title": "Chief Executive Officer",
+        "company": "ComData d.o.o.",
+        "location": "Novi Sad, Serbia",
+        "image": "./dragan.jpg"
+      }
+    }
+  ],
+  "sections": {
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Featured Projects",
+    "recommendations": "Recommendations",
+    "skills": "Skills & Expertise",
+    "education": "Education",
+    "contact": "Let's Connect",
+    "contact_description": "I'm always interested in hearing about new projects and opportunities."
+  }
+}

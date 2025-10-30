@@ -1,19 +1,16 @@
-As a C# and JavaScript developer with around 2.5 years of experience at Noubis Services d.o.o. and over 3 years at ComData d.o.o., I have gained expertise in both backend and frontend development, with a primary focus on C#.
+# React + Vite
 
-Programming Languages:
-JavaScript, TypeScript, C#
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Backend:
-Postgres, NestJS, AdminBro, TypeORM, Bcrypt, Firebase, Firestore, MySQL, .NET 8, Entity Framework Core
+Currently, two official plugins are available:
 
-Frontend:
-HTML, CSS, React
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Cross-platform:
-MAUI, ReactiveUI, RealmDB
+## React Compiler
 
-At the beginning of my career, I aimed to become a C# developer, which led me to gain foundational experience in Object-Oriented Programming, C++, C#, Entity Framework, and GraphQL. Over time, I have specialized in C# development, particularly in ASP.NET, MAUI, and WPF.
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-Beyond technical expertise, I have worked in mid-sized teams (around 20 people) on several interesting projects.
+## Expanding the ESLint configuration
 
-Currently, I am expanding my knowledge by learning AI technologies and further deepening my expertise in MAUI. I have a strong passion for continuous learning and staying up to date with the latest technologies, and I am always eager to take on new challenges to grow my skills.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
