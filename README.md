@@ -26,7 +26,7 @@ I'm a versatile software engineer with a strong foundation in full-stack develop
 - Developed and maintained enterprise and AI-based systems using .NET and React
 - Built MAUI mobile app with Bluetooth device communication
 - Created AI-powered Microsoft Word add-in with LLMs and OCR technology
-- Integrated multiple time-tracking tools via APIs
+- Built ticketing system and integrated multiple time-tracking tools via APIs
 
 ### Backend Developer
 **Noubis Services d.o.o** | Subotica, Serbia | 2020 - 2022
