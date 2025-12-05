@@ -10,20 +10,30 @@
     "location": "Belgrade, Serbia"
   },
   "badges": [
-    "C#",
-    ".NET",
-    "MAUI",
-    "EF",
     "TypeScript",
     "NestJS",
     "TypeORM",
     "PostgreSQL / SQL Server",
     "ReactJS",
-    "AI / LLMs"
+    "AI / LLMs",
+    "C#",
+    ".NET",
+    "MAUI",
+    "EF"
   ],
   "experience": [
     {
-      "role": "Software Engineer",
+      "role": "Full-Stack Software Engineer",
+      "company": "Studio Present d.o.o",
+      "location": "Subotica, Serbia",
+      "period": "2025 - Present",
+      "highlights": [
+        "Developed and maintained enterprise and AI-based systems using NextJS SSR with React",
+        "Engineered complex Loyality Platform with NestJS and React PWA"
+      ]
+    },
+    {
+      "role": "Full-Stack Software Engineer",
       "company": "ComData d.o.o",
       "location": "Novi Sad, Serbia",
       "period": "2022 - 2025",
@@ -49,6 +59,14 @@
   ],
   "education": [
     {
+      "degree": "Master of Information Technology",
+      "institution": "Faculty of Sciences, University of Novi Sad",
+      "location": "Subotica, Serbia",
+      "period": "2025 - Present",
+      "gpa": "9/10",
+      "description": "Expanding knowledge in advanced IT topics including AI, machine learning, and data science as a current student."
+    },
+    {
       "degree": "Bachelor of Information Technology",
       "institution": "Educons University",
       "location": "Subotica, Serbia",
@@ -65,6 +83,18 @@
     }
   ],
   "projects": [
+  {
+      "title": "Loyality Program Platform with advanced QR code scanning of receipts",
+      "description": "Fully featured Loyality Platform with NestJS backend and React PWA frontend, implementing advanced QR code scanning for receipt processing and reward management.",
+      "tech": [
+        "React",
+        "PWA",
+        "NestJS",
+        "PostgreSQL",
+        "TypeORM"
+      ],
+      "icon": "Gift"
+    },
     {
       "title": "Word Add-in with AI Integration",
       "description": "Microsoft Word Add-in for identifying and redacting sensitive data using AI, with OCR, TTS, and transcription services.",
@@ -111,7 +141,7 @@
         "PostgreSQL",
         "TypeORM"
       ],
-      "icon": "Code2"
+      "icon": "Users"
     }
   ],
   "skills": {
@@ -121,11 +151,14 @@
       ".NET Core",
       "ASP.NET",
       "NestJS",
+      "NextJS",
       "GraphQL",
-      "REST APIs"
+      "REST APIs",
+      "SSR"
     ],
     "Frontend & Mobile": [
       "React",
+      "PWA",
       "JavaScript",
       "MAUI",
       "WPF",
@@ -147,7 +180,9 @@
       "PostgreSQL",
       "SQL Server",
       "Git",
-      "CI/CD"
+      "CI/CD",
+      "Micorsoft Office Add-ins",
+      "Micorsoft Exchange"
     ]
   },
   "recommendations": [
