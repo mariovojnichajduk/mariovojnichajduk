@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Menu, X, Mail, Phone, Briefcase, Code2, Brain, Linkedin, GraduationCap } from 'lucide-react';
+import { Menu, X, Mail, Phone, Briefcase, Code2, Brain, Linkedin, GraduationCap, Gift, Users } from 'lucide-react';
 import './App.css';
 import portfolioConfig from './config.json';
 import profileImage from './assets/profile.jpg';
@@ -57,7 +57,9 @@ export default function Portfolio() {
     Mail,
     Phone,
     Linkedin,
-    GraduationCap
+    GraduationCap,
+    Gift,
+    Users
   };
 
   // Map icon names from config to actual icon components
