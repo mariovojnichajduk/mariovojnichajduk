@@ -116,7 +116,7 @@
         "Realm DB",
         "BLE"
       ],
-      "icon": "Code2"
+      "icon": "Bluetooth"
     },
     {
       "title": "Ticketing Web Application",
@@ -128,7 +128,7 @@
         "Azure",
         "Entity Framework"
       ],
-      "icon": "Briefcase"
+      "icon": "Ticket"
     },
     {
       "title": "Social Media Platform",
