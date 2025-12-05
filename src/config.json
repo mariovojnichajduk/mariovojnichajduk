@@ -59,17 +59,16 @@
   ],
   "education": [
     {
-      "degree": "Master of Information Technology",
+      "degree": "Student at Master studies of Information Technology",
       "institution": "Faculty of Sciences, University of Novi Sad",
-      "location": "Subotica, Serbia",
+      "location": "Novi Sad, Serbia",
       "period": "2025 - Present",
-      "gpa": "9/10",
       "description": "Expanding knowledge in advanced IT topics including AI, machine learning, and data science as a current student."
     },
     {
       "degree": "Bachelor of Information Technology",
       "institution": "Educons University",
-      "location": "Subotica, Serbia",
+      "location": "Sremska Kamenica, Serbia",
       "period": "2019 - 2024",
       "gpa": "9/10",
       "description": "Strong emphasis on programming, software engineering, and database systems. Developed advanced skills in C#, Java, JavaScript, and SQL."
